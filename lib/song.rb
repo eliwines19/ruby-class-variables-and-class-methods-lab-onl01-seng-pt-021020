@@ -9,6 +9,7 @@ class Song
 
     @name = name
 
+    @@artists = []
     @artist = artist
 
     @genre = genre
