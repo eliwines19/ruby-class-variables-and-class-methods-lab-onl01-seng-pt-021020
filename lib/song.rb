@@ -9,7 +9,6 @@ class Song
 
     @name = name
 
-    @@artists << artist
     @artist = artist
 
     @genre = genre
